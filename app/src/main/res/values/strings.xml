@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tarea_c</string>
+    <string name="first_title">Componente de texto</string>
+    <string name="first_description">Muestra texto y sigue las guías de diseño recomendadas por Material Design.</string>
+    <string name="second_title">Componente de imagen</string>
+    <string name="second_description">Crea un componente componible que organiza y dibuja un objeto de la clase Painter dado.</string>
+    <string name="third_title">Componente de fila</string>
+    <string name="third_description">Un componente de diseño que coloca a sus hijos en una secuencia horizontal.</string>
+    <string name="fourth_title">Componente de columna</string>
+    <string name="fourth_description">Un componente de diseño que coloca a sus hijos en una secuencia vertical.</string>
+</resources>
